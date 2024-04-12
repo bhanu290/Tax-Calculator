@@ -48,6 +48,25 @@ This tax calculator app helps users calculate their tax based on their income an
 - Tax Calculation: 30% of (40 - 8) Lakhs = 9.6 Lakhs
 
 ## App Demonstration
+- Below are some of the screenshots of the app, The first two screenshots demonstrate that if the total_income (gross_annual_income + extra_income - deductions) <= 8 Lakhs then the tax is 0.
+- The 3rd and 4th screeshots show that if the total_income > 8 Lakhs then there is some tax calculated according to their age group.
+- The 5th screenshot show the working of the each field with the help of a question mark icon beside it.
+- The 6th screenshot show that when the user enters non-integer values in any of the income fields then the warning is popped.
+- The 7th screenshot show that if the user ignores any warning and try to submit, then the user cannot submit and the warning pops in the respective field again.
+
+<img src="https://github.com/bhanu290/Tax-Calculator/assets/78996059/17b48833-7099-494d-bf9e-9340282f3c16" alt="Screenshot" width="300px">
+
+<img src="https://github.com/bhanu290/Tax-Calculator/assets/78996059/be002478-3770-428d-8380-b43d5a88a102" alt="Screenshot" width="300px">
+
+<img src="https://github.com/bhanu290/Tax-Calculator/assets/78996059/153b1187-44b3-4e93-8a87-54f1f905d056" alt="Screenshot" width="300px">
+
+<img src="https://github.com/bhanu290/Tax-Calculator/assets/78996059/e20ea9d6-ce3d-48ac-ad9a-86377f341596" alt="Screenshot" width="300px">
+
+<img src="https://github.com/bhanu290/Tax-Calculator/assets/78996059/203113da-21c9-4892-bb82-341b6ded7f40" alt="Screenshot" width="300px">
+
+<img src="https://github.com/bhanu290/Tax-Calculator/assets/78996059/fd8f5447-307c-4254-82ab-0505a0358777" alt="Screenshot" width="300px">
+
+<img src="https://github.com/bhanu290/Tax-Calculator/assets/78996059/b654a5a1-a0ff-4aff-8300-5455c69c098c" alt="Screenshot" width="300px">
 
 
 
