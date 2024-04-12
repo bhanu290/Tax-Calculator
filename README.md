@@ -53,7 +53,7 @@ This tax calculator app helps users calculate their tax based on their income an
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-repo-url.git`
+1. Clone the repository: `git clone https://github.com/bhanu290/Tax-Calculator.git`
 2. Open the index.html file in a web browser.
 
 
