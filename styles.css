@@ -1,0 +1,69 @@
+.error-icon {
+  display: none;
+  cursor: pointer;
+  color: red;
+}
+
+.bi-question-circle {
+  cursor: pointer;
+}
+
+.message-box {
+  position: absolute;
+  background-color: #8785a2;
+  opacity: 0.9;
+  padding: 5px;
+  border-radius: 5px;
+  max-width: 150px;
+
+  color: white;
+  font-size: 10px;
+}
+
+/* Add custom styles for the modal */
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: #8785a2 solid 1px;
+  padding: 5%;
+  width: 45%;
+}
+
+/* Add custom styles for the modal */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.modal-dialog {
+  max-width: 100%;
+  width: 60%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 60%;
+  display: flex;
+
+  border: #8785a2 solid 1px;
+}
+
+.modal-content {
+  border: none;
+}
+
+.modal-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.close-btn {
+  width: fit-content;
+  margin-top: 0.5rem;
+}
